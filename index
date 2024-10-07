@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Picasso-Inspired Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="logo">ArtFusion</div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Gallery</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-text">
+            <h1>Bold, Abstract, Unconventional</h1>
+            <button>Explore Now</button>
+        </div>
+    </section>
+
+    <!-- Content Section -->
+    <section class="content">
+        <div class="left-column">
+            <img src="abstract1.jpg" alt="Abstract Art">
+            <img src="abstract2.jpg" alt="Abstract Art">
+        </div>
+        <div class="right-column">
+            <div class="text-box">
+                <h2>Exploring Abstract Forms</h2>
+                <p>Discover art that challenges the boundaries of form and structure.</p>
+            </div>
+            <div class="text-box">
+                <h2>The Art of Distortion</h2>
+                <p>Understand the beauty in fragmentation and cubism.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="footer-shapes">
+            <a href="#">Facebook</a>
+            <a href="#">Instagram</a>
+            <a href="#">Twitter</a>
+        </div>
+        <p>&copy; 2024 ArtFusion. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
